@@ -2,17 +2,19 @@
 
 # :heart: Bem-vindo(a)! 
 
-## Prazer, meu nome é Henrique P. Lopes
-- 19 anos;
+## Prazer, meu nome é Henrique Lopes
+- 20 anos;
 - Fascinado pela área de desenvolvimento, buscando resolver ou facilitar problemas da sociedade :sweat_smile:;
 - Em busca de oportunidades para aprimorar meus conhecimentos! :computer:
 
 ### :pushpin: Habilidades Técnicas
 - JavaScript, TypeScript
-- ReactJS, React Native, Node.js
+- ReactJS, NextJS, React Native, Node.js
 - PHP, HTML, CSS
-- SQL Server, MySQL, MariaDB
-- Git, GitHub
+- Amazon: API Gateway, Lambda, Elastic, S3
+- Google Cloud: App Engine
+- SQL, NoSQL
+- Git
 - Java
 - Rest
 
